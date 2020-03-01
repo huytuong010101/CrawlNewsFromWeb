@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f50aa3-35c5-4c19-9ac4-3aa4f60eb037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTAv9MsSesG51pM0ca3FaKISBX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\̉̉̉̉̉̉ku\PycharmProjects\CrawlNewsFromWeb" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\̉̉̉̉̉̉ku\PycharmProjects\CrawlNewsFromWeb" />
+      <recent name="C:\Users\̉̉̉̉̉̉ku\PycharmProjects\CrawlNewsFromWeb\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.News (1)">
+    <configuration name="News (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CrawlNewsFromWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/News.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="News" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CrawlNewsFromWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\̉̉̉̉̉̉ku\PycharmProjects\CrawlNewsFromWeb\News.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scripts" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CrawlNewsFromWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\̉̉̉̉̉̉ku\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawNewsFromWeb" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawNewsFromWeb/Scripts" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CrawlNewsFromWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CrawNewsFromWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CrawNewsFromWeb/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tuoitre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CrawlNewsFromWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuoitre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Scripts" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.tuoitre" />
+      <item itemvalue="Python.News" />
+      <item itemvalue="Python.News (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.News (1)" />
+        <item itemvalue="Python.tuoitre" />
+        <item itemvalue="Python.News" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f50aa3-35c5-4c19-9ac4-3aa4f60eb037" name="Default Changelist" comment="" />
+      <created>1582956438079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582956438079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582957599403">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1582957599403" />
+    <state x="534" y="211" key="EnvironmentVariablesDialog" timestamp="1582957591008">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="534" y="211" key="EnvironmentVariablesDialog/0.0.1600.900@0.0.1600.900" timestamp="1582957591008" />
+    <state x="580" y="204" key="FileChooserDialogImpl" timestamp="1582958576320">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="204" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1582958576320" />
+    <state width="1578" height="231" key="GridCell.Tab.0.bottom" timestamp="1583047825398">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1578" height="231" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1583047825398" />
+    <state width="1578" height="231" key="GridCell.Tab.0.center" timestamp="1583047825397">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1578" height="231" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1583047825397" />
+    <state width="1578" height="231" key="GridCell.Tab.0.left" timestamp="1583047825397">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1578" height="231" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1583047825397" />
+    <state width="1578" height="231" key="GridCell.Tab.0.right" timestamp="1583047825397">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1578" height="231" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1583047825397" />
+    <state x="301" y="81" key="SettingsEditor" timestamp="1582958598968">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="81" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1582958598968" />
+    <state x="495" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1583047930485">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="495" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1583047930485" />
+  </component>
+</project>
